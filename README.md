@@ -1,4 +1,4 @@
 # umar-demo
 this is my first github repos.
 <br>
-author:umar quadri
+author:umar quadri (synectiks)!
