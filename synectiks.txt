@@ -1,9 +1,9 @@
 {
-  "name": "umar",
-  "email": "uquadri4@gmail.com",
-  "contact": "7849054559",
+  "name": "sss",
+  "email": "a@gmail.com",
+  "contact": "646531635",
   "branch": "",
-  "address": "hyderabad",
-  "companyName": "synectiks",
-  "message": "possible"
+  "address": "bidar",
+  "companyName": "jhdgiulddudljsdinc",
+  "message": ",,cnkjdv"
 }
