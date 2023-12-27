@@ -1,0 +1,9 @@
+{
+  "name": "umar",
+  "email": "uquadri4@gmail.com",
+  "contact": "7849054559",
+  "branch": "",
+  "address": "hyderabad",
+  "companyName": "synectiks",
+  "message": "possible"
+}
